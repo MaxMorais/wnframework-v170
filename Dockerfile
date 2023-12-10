@@ -32,4 +32,6 @@ COPY ./startup.sh .
 
 RUN chmod a+x ./startup.sh
 
-ENTRYPOINT ["/app/startup.sh"]
+EXPOSE 8000
+
+CMD ["sh", "/app/startup.sh"]

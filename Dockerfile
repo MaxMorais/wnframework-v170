@@ -19,7 +19,7 @@ RUN apk add --no-cache \
 
 WORKDIR /app
 
-VOLUME /app
+VOLUME [ "/app/" ]
 
 RUN virtualenv ./env
 RUN ./env/bin/pip install pytz dateutils
@@ -29,11 +29,13 @@ COPY ./wnframework-modules ./wnframework-modules
 COPY ./server.py .
 COPY ./startup.sh .
 
+RUN mkdir ./data
+
 RUN chmod a+x ./startup.sh
 RUN chmod a+x ./wnframework/v170/index.py
 RUN chmod a+x ./wnframework/v170/cgi-bin/getfile.py
 RUN chmod a+x ./wnframework/v170/cgi-bin/getjsfile.py
-
+RUN chown -R 1001:root ./data
 
 EXPOSE 8000
 

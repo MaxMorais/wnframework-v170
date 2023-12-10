@@ -12,25 +12,28 @@ RUN apk add --no-cache \
         libpng-dev \
         jpeg-dev \
         libjpeg \
-        libjpeg-turbo-dev && \
-    pip install --upgrade pip setuptools && \
+        libjpeg-turbo-dev \
+        sqlite && \
+    pip install --upgrade pip setuptools virtualenv && \
     rm -r /root/.cache
 
 WORKDIR /app
 
 VOLUME /app
 
-RUN pip install virtualenv
 RUN virtualenv ./env
 RUN ./env/bin/pip install pytz dateutils
 
-
-COPY ./wnframework .
-COPY ./wnframework-modules .
+COPY ./wnframework ./wnframework
+COPY ./wnframework-modules ./wnframework-modules
 COPY ./server.py .
 COPY ./startup.sh .
 
 RUN chmod a+x ./startup.sh
+RUN chmod a+x ./wnframework/v170/index.py
+RUN chmod a+x ./wnframework/v170/cgi-bin/getfile.py
+RUN chmod a+x ./wnframework/v170/cgi-bin/getjsfile.py
+
 
 EXPOSE 8000
 

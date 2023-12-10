@@ -2,6 +2,13 @@ import http.server
 
 import os
 
+DIRECTORY = os.path.abspath(
+    os.path.join(
+        os.path.dirname(__file__),
+        'wnframework/v170/'
+    )
+)
+
 class WNCGIHTTPRequestHandler(http.server.CGIHTTPRequestHandler):
     cgi_directories = [
         '/',
@@ -9,7 +16,7 @@ class WNCGIHTTPRequestHandler(http.server.CGIHTTPRequestHandler):
     ]
 
     def __init__(self, *args, **kwargs):
-        super().__init__(*args, directory='./wnframework/v170/', *kwargs)
+        super().__init__(*args, directory=DIRECTORY, *kwargs)
 
     def do_GET(self) -> None:
         if self.path == '/':
@@ -28,6 +35,10 @@ def main():
         ("", 8000),
         WNCGIHTTPRequestHandler
     )
+
+    address = f"{httpd.server_address[0]}:{httpd.server_address[1]}"
+
+    print(f'Starting Server at {address}')
     httpd.serve_forever()
 
 if __name__ == '__main__':

@@ -1,4 +1,4 @@
-#!/home/tmx-dev-05/Downloads/wn/env/bin/python
+#!/usr/bin/env python
 
 import cgi
 import datetime

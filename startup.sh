@@ -1,3 +1,5 @@
+#!/bin/bash
+
 . ./env/bin/activate
 export DB_STORAGE="$(pwd)/data/wnframework.db"
 

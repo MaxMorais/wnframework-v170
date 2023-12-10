@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1842/trunk/v170/cgi-bin/core/doctype/system_console
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1803/trunk/v170/cgi-bin/core/doctype/system_console/__init__.py
+END
+system_console.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1803/trunk/v170/cgi-bin/core/doctype/system_console/system_console.py
+END
+system_console.comp.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1804/trunk/v170/cgi-bin/core/doctype/system_console/system_console.comp.js
+END
+system_console.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1804/trunk/v170/cgi-bin/core/doctype/system_console/system_console.js
+END
+system_console.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1842/trunk/v170/cgi-bin/core/doctype/system_console/system_console.txt
+END

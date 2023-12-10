@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/debtors_ledger
+END
+debtors_ledger.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/debtors_ledger/debtors_ledger.js
+END
+debtors_ledger.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/debtors_ledger/debtors_ledger.txt
+END
+debtors_ledger.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/debtors_ledger/debtors_ledger.sql
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/debtors_ledger/__init__.py
+END
+debtors_ledger.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/debtors_ledger/debtors_ledger.py
+END

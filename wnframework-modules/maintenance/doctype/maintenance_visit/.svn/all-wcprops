@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1248/trunk/maintenance/doctype/maintenance_visit
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/256/trunk/maintenance/doctype/maintenance_visit/__init__.py
+END
+maintenance_visit.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1192/trunk/maintenance/doctype/maintenance_visit/maintenance_visit.py
+END
+maintenance_visit.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1248/trunk/maintenance/doctype/maintenance_visit/maintenance_visit.js
+END
+maintenance_visit.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1215/trunk/maintenance/doctype/maintenance_visit/maintenance_visit.txt
+END

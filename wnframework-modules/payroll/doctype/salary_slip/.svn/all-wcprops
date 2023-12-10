@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1155/trunk/payroll/doctype/salary_slip
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/256/trunk/payroll/doctype/salary_slip/__init__.py
+END
+salary_slip.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/864/trunk/payroll/doctype/salary_slip/salary_slip.py
+END
+salary_slip.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/864/trunk/payroll/doctype/salary_slip/salary_slip.js
+END
+salary_slip.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1155/trunk/payroll/doctype/salary_slip/salary_slip.txt
+END

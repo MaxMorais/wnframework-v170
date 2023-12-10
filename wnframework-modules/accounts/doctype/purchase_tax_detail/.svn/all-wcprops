@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/328/trunk/accounts/doctype/purchase_tax_detail
+END
+purchase_tax_detail.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/256/trunk/accounts/doctype/purchase_tax_detail/purchase_tax_detail.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/256/trunk/accounts/doctype/purchase_tax_detail/__init__.py
+END

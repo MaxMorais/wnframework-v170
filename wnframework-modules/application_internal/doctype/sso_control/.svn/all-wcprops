@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/328/trunk/application_internal/doctype/sso_control
+END
+sso_control.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/256/trunk/application_internal/doctype/sso_control/sso_control.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/256/trunk/application_internal/doctype/sso_control/__init__.py
+END
+sso_control.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/256/trunk/application_internal/doctype/sso_control/sso_control.py
+END

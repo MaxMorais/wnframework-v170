@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1111/trunk/payroll/search_criteria/installed_items
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1111/trunk/payroll/search_criteria/installed_items/__init__.py
+END
+installed_items.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1111/trunk/payroll/search_criteria/installed_items/installed_items.js
+END
+installed_items.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1111/trunk/payroll/search_criteria/installed_items/installed_items.txt
+END

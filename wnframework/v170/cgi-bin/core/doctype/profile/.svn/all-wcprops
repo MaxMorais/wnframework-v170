@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1911/trunk/v170/cgi-bin/core/doctype/profile
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1534/trunk/v170/cgi-bin/core/doctype/profile/__init__.py
+END
+profile.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1911/trunk/v170/cgi-bin/core/doctype/profile/profile.py
+END
+profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1534/trunk/v170/cgi-bin/core/doctype/profile/profile.js
+END
+profile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1906/trunk/v170/cgi-bin/core/doctype/profile/profile.txt
+END

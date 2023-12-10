@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/collection_report
+END
+collection_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/collection_report/collection_report.py
+END
+collection_report.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/collection_report/collection_report.js
+END
+collection_report.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/collection_report/collection_report.sql
+END
+collection_report.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/collection_report/collection_report.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/collection_report/__init__.py
+END

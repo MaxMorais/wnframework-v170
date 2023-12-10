@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1079/trunk/payroll/doctype/attendance_control_panel
+END
+attendance_control_panel.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1079/trunk/payroll/doctype/attendance_control_panel/attendance_control_panel.py
+END
+attendance_control_panel.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/256/trunk/payroll/doctype/attendance_control_panel/attendance_control_panel.js
+END
+attendance_control_panel.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/256/trunk/payroll/doctype/attendance_control_panel/attendance_control_panel.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/256/trunk/payroll/doctype/attendance_control_panel/__init__.py
+END

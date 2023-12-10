@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/tds_return
+END
+tds_return.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/tds_return/tds_return.py
+END
+tds_return.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/tds_return/tds_return.js
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/tds_return/__init__.py
+END
+tds_return.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/tds_return/tds_return.txt
+END
+tds_return.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/tds_return/tds_return.sql
+END

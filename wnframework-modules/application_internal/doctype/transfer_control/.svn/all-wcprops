@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/328/trunk/application_internal/doctype/transfer_control
+END
+transfer_control.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/256/trunk/application_internal/doctype/transfer_control/transfer_control.py
+END
+transfer_control.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/256/trunk/application_internal/doctype/transfer_control/transfer_control.js
+END
+transfer_control.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/256/trunk/application_internal/doctype/transfer_control/transfer_control.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/256/trunk/application_internal/doctype/transfer_control/__init__.py
+END

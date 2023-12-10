@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1255/trunk/setup/page/setup
+END
+setup.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/256/trunk/setup/page/setup/setup.txt
+END
+setup.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1255/trunk/setup/page/setup/setup.html
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/463/trunk/setup/page/setup/__init__.py
+END
+setup.comp.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1255/trunk/setup/page/setup/setup.comp.js
+END
+setup_static.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/256/trunk/setup/page/setup/setup_static.html
+END
+setup.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1255/trunk/setup/page/setup/setup.js
+END

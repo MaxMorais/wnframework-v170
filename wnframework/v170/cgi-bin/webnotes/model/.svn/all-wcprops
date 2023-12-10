@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1910/trunk/v170/cgi-bin/webnotes/model
+END
+doc.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1910/trunk/v170/cgi-bin/webnotes/model/doc.py
+END
+db_schema.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1906/trunk/v170/cgi-bin/webnotes/model/db_schema.py
+END
+triggers.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1730/trunk/v170/cgi-bin/webnotes/model/triggers.py
+END
+meta.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1844/trunk/v170/cgi-bin/webnotes/model/meta.py
+END
+doctype.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1904/trunk/v170/cgi-bin/webnotes/model/doctype.py
+END
+modules.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/113/trunk/v170/cgi-bin/webnotes/model/modules.py
+END
+code.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1864/trunk/v170/cgi-bin/webnotes/model/code.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1902/trunk/v170/cgi-bin/webnotes/model/__init__.py
+END
+doclist.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1818/trunk/v170/cgi-bin/webnotes/model/doclist.py
+END
+import_docs.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1832/trunk/v170/cgi-bin/webnotes/model/import_docs.py
+END

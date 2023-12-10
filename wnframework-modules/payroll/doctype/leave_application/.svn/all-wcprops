@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1155/trunk/payroll/doctype/leave_application
+END
+leave_application.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/625/trunk/payroll/doctype/leave_application/leave_application.js
+END
+leave_application.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1155/trunk/payroll/doctype/leave_application/leave_application.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/556/trunk/payroll/doctype/leave_application/__init__.py
+END
+leave_application.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/778/trunk/payroll/doctype/leave_application/leave_application.py
+END
+leave_application.comp.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/625/trunk/payroll/doctype/leave_application/leave_application.comp.js
+END

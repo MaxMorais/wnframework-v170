@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/896/trunk/crm/page/customers
+END
+customers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/896/trunk/crm/page/customers/customers.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/896/trunk/crm/page/customers/__init__.py
+END
+customers.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/896/trunk/crm/page/customers/customers.html
+END
+customers.comp.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/896/trunk/crm/page/customers/customers.comp.js
+END
+customers.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/896/trunk/crm/page/customers/customers.js
+END

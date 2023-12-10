@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1912/trunk/v170/cgi-bin/webnotes/utils
+END
+backups.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1664/trunk/v170/cgi-bin/webnotes/utils/backups.py
+END
+file_manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1902/trunk/v170/cgi-bin/webnotes/utils/file_manager.py
+END
+webservice.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1750/trunk/v170/cgi-bin/webnotes/utils/webservice.py
+END
+scheduler.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1879/trunk/v170/cgi-bin/webnotes/utils/scheduler.py
+END
+nestedset.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/963/trunk/v170/cgi-bin/webnotes/utils/nestedset.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1848/trunk/v170/cgi-bin/webnotes/utils/__init__.py
+END
+jsmin.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/203/trunk/v170/cgi-bin/webnotes/utils/jsmin.py
+END
+archive.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1500/trunk/v170/cgi-bin/webnotes/utils/archive.py
+END
+sitemap.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1809/trunk/v170/cgi-bin/webnotes/utils/sitemap.py
+END
+cache.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1858/trunk/v170/cgi-bin/webnotes/utils/cache.py
+END
+encrypt.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/915/trunk/v170/cgi-bin/webnotes/utils/encrypt.py
+END
+transfer.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1909/trunk/v170/cgi-bin/webnotes/utils/transfer.py
+END

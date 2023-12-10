@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1263/trunk/material_management/doctype/stock_entry
+END
+stock_entry.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1028/trunk/material_management/doctype/stock_entry/stock_entry.js
+END
+stock_entry.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1164/trunk/material_management/doctype/stock_entry/stock_entry.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/256/trunk/material_management/doctype/stock_entry/__init__.py
+END
+stock_entry.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1263/trunk/material_management/doctype/stock_entry/stock_entry.py
+END

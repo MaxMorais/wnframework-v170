@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1269/trunk/material_management/doctype/delivery_note
+END
+delivery_note.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1262/trunk/material_management/doctype/delivery_note/delivery_note.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/256/trunk/material_management/doctype/delivery_note/__init__.py
+END
+delivery_note.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1268/trunk/material_management/doctype/delivery_note/delivery_note.py
+END
+delivery_note.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1269/trunk/material_management/doctype/delivery_note/delivery_note.js
+END

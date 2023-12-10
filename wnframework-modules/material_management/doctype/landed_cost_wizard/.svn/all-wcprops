@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1155/trunk/material_management/doctype/landed_cost_wizard
+END
+landed_cost_wizard.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/256/trunk/material_management/doctype/landed_cost_wizard/landed_cost_wizard.js
+END
+landed_cost_wizard.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1155/trunk/material_management/doctype/landed_cost_wizard/landed_cost_wizard.txt
+END
+landed_cost_wizard.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1155/trunk/material_management/doctype/landed_cost_wizard/landed_cost_wizard.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/256/trunk/material_management/doctype/landed_cost_wizard/__init__.py
+END

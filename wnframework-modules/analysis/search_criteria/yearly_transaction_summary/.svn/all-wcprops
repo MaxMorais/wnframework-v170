@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1111/trunk/analysis/search_criteria/yearly_transaction_summary
+END
+yearly_transaction_summary.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1111/trunk/analysis/search_criteria/yearly_transaction_summary/yearly_transaction_summary.py
+END
+yearly_transaction_summary.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1111/trunk/analysis/search_criteria/yearly_transaction_summary/yearly_transaction_summary.js
+END
+yearly_transaction_summary.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1111/trunk/analysis/search_criteria/yearly_transaction_summary/yearly_transaction_summary.sql
+END
+yearly_transaction_summary.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1111/trunk/analysis/search_criteria/yearly_transaction_summary/yearly_transaction_summary.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1111/trunk/analysis/search_criteria/yearly_transaction_summary/__init__.py
+END

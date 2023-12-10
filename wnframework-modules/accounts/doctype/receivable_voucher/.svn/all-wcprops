@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1262/trunk/accounts/doctype/receivable_voucher
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/256/trunk/accounts/doctype/receivable_voucher/__init__.py
+END
+receivable_voucher.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1262/trunk/accounts/doctype/receivable_voucher/receivable_voucher.js
+END
+receivable_voucher.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1215/trunk/accounts/doctype/receivable_voucher/receivable_voucher.txt
+END
+receivable_voucher.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1262/trunk/accounts/doctype/receivable_voucher/receivable_voucher.py
+END

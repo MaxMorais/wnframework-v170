@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1192/trunk/material_management/doctype/stock_ledger_entry
+END
+stock_ledger_entry.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1192/trunk/material_management/doctype/stock_ledger_entry/stock_ledger_entry.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/256/trunk/material_management/doctype/stock_ledger_entry/__init__.py
+END
+stock_ledger_entry.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1171/trunk/material_management/doctype/stock_ledger_entry/stock_ledger_entry.py
+END

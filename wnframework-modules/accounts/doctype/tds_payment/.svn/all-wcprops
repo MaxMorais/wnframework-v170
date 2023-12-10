@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/908/trunk/accounts/doctype/tds_payment
+END
+tds_payment.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/908/trunk/accounts/doctype/tds_payment/tds_payment.py
+END
+tds_payment.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/256/trunk/accounts/doctype/tds_payment/tds_payment.js
+END
+tds_payment.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/901/trunk/accounts/doctype/tds_payment/tds_payment.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/256/trunk/accounts/doctype/tds_payment/__init__.py
+END

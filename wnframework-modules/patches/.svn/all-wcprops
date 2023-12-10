@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/1280/trunk/patches
+END
+doctype_permission_patch.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1158/trunk/patches/doctype_permission_patch.py
+END
+patch.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1280/trunk/patches/patch.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/259/trunk/patches/__init__.py
+END
+feed_patch.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1184/trunk/patches/feed_patch.py
+END
+customer_address.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1235/trunk/patches/customer_address.py
+END

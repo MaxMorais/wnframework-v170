@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/328/trunk/tools/doctype/business_letter_template
+END
+business_letter_template.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/256/trunk/tools/doctype/business_letter_template/business_letter_template.js
+END
+business_letter_template.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/256/trunk/tools/doctype/business_letter_template/business_letter_template.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/256/trunk/tools/doctype/business_letter_template/__init__.py
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1248/trunk/maintenance/doctype/maintenance_schedule
+END
+maintenance_schedule.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1192/trunk/maintenance/doctype/maintenance_schedule/maintenance_schedule.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/256/trunk/maintenance/doctype/maintenance_schedule/__init__.py
+END
+maintenance_schedule.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1248/trunk/maintenance/doctype/maintenance_schedule/maintenance_schedule.js
+END
+maintenance_schedule.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1215/trunk/maintenance/doctype/maintenance_schedule/maintenance_schedule.txt
+END

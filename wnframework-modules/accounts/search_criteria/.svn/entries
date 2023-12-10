@@ -1,0 +1,152 @@
+10
+
+dir
+1280
+http://wnframework-modules.googlecode.com/svn/trunk/accounts/search_criteria
+http://wnframework-modules.googlecode.com/svn
+
+
+
+2011-06-06T12:57:08.474788Z
+1275
+nabinhait
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+8f373c1c-ccec-715c-ec2e-e4704dfe974a
+
+service_tax_credit_account___inputs
+dir
+
+itemwise_purchase_register
+dir
+
+monthly_ledger_summary_report
+dir
+
+debtors_ledger
+dir
+
+__init__.py
+file
+
+
+
+
+2016-01-10T23:35:18.017628Z
+d41d8cd98f00b204e9800998ecf8427e
+2011-05-09T08:50:14.000286Z
+1111
+rmehta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+cost_center_wise_expense
+dir
+
+collection_report
+dir
+
+tds_return
+dir
+
+general_ledger
+dir
+
+accounts_receivable
+dir
+
+payment_report
+dir
+
+sales_register
+dir
+
+budget_variance_report
+dir
+
+trial_balance
+dir
+
+progressive_total_excise_duty
+dir
+
+business_associate_commission_report
+dir
+
+itemwise_sales_register
+dir
+
+total_amout_collection_for_a_period___customerwise
+dir
+
+payment_receipt_report
+dir
+
+cash_flow_statement
+dir
+
+sales_register1
+dir
+
+sales_register2
+dir
+
+budget_variance_report1
+dir
+
+itemwise_sales_register1
+dir
+
+bank_clearance_report
+dir
+
+account___inputs_rg_23_a___part_ii_wrong_one
+dir
+
+accounts_payable
+dir
+
+purchase_register
+dir
+
+cenvat_credit___input_or_capital_goods
+dir
+
+creditors_ledger
+dir
+
+bank_reconciliation_statement
+dir
+

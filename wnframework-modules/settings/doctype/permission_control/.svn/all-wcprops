@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1246/trunk/settings/doctype/permission_control
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/256/trunk/settings/doctype/permission_control/__init__.py
+END
+permission_control.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/256/trunk/settings/doctype/permission_control/permission_control.txt
+END
+permission_control.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1246/trunk/settings/doctype/permission_control/permission_control.py
+END

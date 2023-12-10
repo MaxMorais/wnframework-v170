@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/328/trunk/production/doctype/production_planning_tool
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/256/trunk/production/doctype/production_planning_tool/__init__.py
+END
+production_planning_tool.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/256/trunk/production/doctype/production_planning_tool/production_planning_tool.txt
+END
+production_planning_tool.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/256/trunk/production/doctype/production_planning_tool/production_planning_tool.py
+END
+production_planning_tool.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/256/trunk/production/doctype/production_planning_tool/production_planning_tool.js
+END

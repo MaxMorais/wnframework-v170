@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1265/trunk/crm/doctype/customer
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/256/trunk/crm/doctype/customer/__init__.py
+END
+customer.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1265/trunk/crm/doctype/customer/customer.py
+END
+customer.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1248/trunk/crm/doctype/customer/customer.js
+END
+customer.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1248/trunk/crm/doctype/customer/customer.txt
+END

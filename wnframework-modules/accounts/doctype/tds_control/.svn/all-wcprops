@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/968/trunk/accounts/doctype/tds_control
+END
+tds_control.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/256/trunk/accounts/doctype/tds_control/tds_control.txt
+END
+tds_control.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/968/trunk/accounts/doctype/tds_control/tds_control.py
+END
+tds_control.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/256/trunk/accounts/doctype/tds_control/tds_control.js
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/256/trunk/accounts/doctype/tds_control/__init__.py
+END

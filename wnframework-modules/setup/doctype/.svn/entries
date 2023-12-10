@@ -1,0 +1,152 @@
+10
+
+dir
+1280
+http://wnframework-modules.googlecode.com/svn/trunk/setup/doctype
+http://wnframework-modules.googlecode.com/svn
+
+
+
+2011-05-28T05:03:58.259772Z
+1240
+rmehta
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+8f373c1c-ccec-715c-ec2e-e4704dfe974a
+
+naming_series_options
+dir
+
+setup_control
+dir
+
+uom
+dir
+
+warehouse_type
+dir
+
+country
+dir
+
+manage_account
+dir
+
+erp_setup
+dir
+
+target_detail
+dir
+
+other_charges
+dir
+
+period
+dir
+
+period_control
+dir
+
+order_lost_reason
+dir
+
+__init__.py
+file
+
+
+
+
+2016-01-10T23:35:23.976788Z
+d41d8cd98f00b204e9800998ecf8427e
+2011-01-04T15:34:09.862929Z
+256
+rmehta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+brand
+dir
+
+sales_person
+dir
+
+sales_partner
+dir
+
+territory
+dir
+
+import_data_control
+dir
+
+support_email_settings
+dir
+
+supplier_type
+dir
+
+market_segment
+dir
+
+company
+dir
+
+term
+dir
+
+item_group
+dir
+
+sales_browser_control
+dir
+
+customer_group
+dir
+
+state
+dir
+
+currency
+dir
+
+personalize
+dir
+
+contact_control
+dir
+
+price_list
+dir
+

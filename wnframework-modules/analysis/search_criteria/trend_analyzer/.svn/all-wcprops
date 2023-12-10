@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1111/trunk/analysis/search_criteria/trend_analyzer
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1111/trunk/analysis/search_criteria/trend_analyzer/__init__.py
+END
+trend_analyzer.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1111/trunk/analysis/search_criteria/trend_analyzer/trend_analyzer.py
+END
+trend_analyzer.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1111/trunk/analysis/search_criteria/trend_analyzer/trend_analyzer.js
+END
+trend_analyzer.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1111/trunk/analysis/search_criteria/trend_analyzer/trend_analyzer.txt
+END

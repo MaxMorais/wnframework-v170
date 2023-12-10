@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1246/trunk/my_company/doctype/company_control
+END
+company_control.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/256/trunk/my_company/doctype/company_control/company_control.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/256/trunk/my_company/doctype/company_control/__init__.py
+END
+company_control.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1246/trunk/my_company/doctype/company_control/company_control.py
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/328/trunk/accounts/doctype/budget_distribution
+END
+budget_distribution.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/256/trunk/accounts/doctype/budget_distribution/budget_distribution.py
+END
+budget_distribution.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/256/trunk/accounts/doctype/budget_distribution/budget_distribution.js
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/256/trunk/accounts/doctype/budget_distribution/__init__.py
+END
+budget_distribution.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/256/trunk/accounts/doctype/budget_distribution/budget_distribution.txt
+END

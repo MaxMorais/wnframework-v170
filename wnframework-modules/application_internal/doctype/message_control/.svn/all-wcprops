@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/328/trunk/application_internal/doctype/message_control
+END
+message_control.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/256/trunk/application_internal/doctype/message_control/message_control.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/256/trunk/application_internal/doctype/message_control/__init__.py
+END
+message_control.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/256/trunk/application_internal/doctype/message_control/message_control.py
+END

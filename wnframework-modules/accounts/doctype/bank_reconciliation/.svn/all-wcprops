@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/328/trunk/accounts/doctype/bank_reconciliation
+END
+bank_reconciliation.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/256/trunk/accounts/doctype/bank_reconciliation/bank_reconciliation.txt
+END
+bank_reconciliation.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/256/trunk/accounts/doctype/bank_reconciliation/bank_reconciliation.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/256/trunk/accounts/doctype/bank_reconciliation/__init__.py
+END
+bank_reconciliation.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/256/trunk/accounts/doctype/bank_reconciliation/bank_reconciliation.js
+END

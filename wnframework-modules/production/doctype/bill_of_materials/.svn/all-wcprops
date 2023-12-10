@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1155/trunk/production/doctype/bill_of_materials
+END
+bill_of_materials.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/256/trunk/production/doctype/bill_of_materials/bill_of_materials.js
+END
+bill_of_materials.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1155/trunk/production/doctype/bill_of_materials/bill_of_materials.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/256/trunk/production/doctype/bill_of_materials/__init__.py
+END
+bill_of_materials.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/931/trunk/production/doctype/bill_of_materials/bill_of_materials.py
+END

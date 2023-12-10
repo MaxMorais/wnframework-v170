@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1912/trunk/v170/cgi-bin
+END
+getfile.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1397/trunk/v170/cgi-bin/getfile.cgi
+END
+backupall.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/701/trunk/v170/cgi-bin/backupall.py
+END
+pypi-setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1463/trunk/v170/cgi-bin/pypi-setup.py
+END
+getjsfile.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/123/trunk/v170/cgi-bin/getjsfile.cgi
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/328/trunk/roles/doctype/role
+END
+role.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/256/trunk/roles/doctype/role/role.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/256/trunk/roles/doctype/role/__init__.py
+END
+role.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/256/trunk/roles/doctype/role/role.py
+END
+role.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/256/trunk/roles/doctype/role/role.js
+END

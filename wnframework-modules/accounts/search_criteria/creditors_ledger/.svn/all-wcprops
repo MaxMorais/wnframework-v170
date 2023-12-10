@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/creditors_ledger
+END
+creditors_ledger.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/creditors_ledger/creditors_ledger.js
+END
+creditors_ledger.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/creditors_ledger/creditors_ledger.sql
+END
+creditors_ledger.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/creditors_ledger/creditors_ledger.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/creditors_ledger/__init__.py
+END
+creditors_ledger.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/creditors_ledger/creditors_ledger.py
+END

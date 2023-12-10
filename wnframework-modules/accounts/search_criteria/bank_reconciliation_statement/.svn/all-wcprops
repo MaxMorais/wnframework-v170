@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/bank_reconciliation_statement
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/bank_reconciliation_statement/__init__.py
+END
+bank_reconciliation_statement.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/bank_reconciliation_statement/bank_reconciliation_statement.py
+END
+bank_reconciliation_statement.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/bank_reconciliation_statement/bank_reconciliation_statement.js
+END
+bank_reconciliation_statement.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/bank_reconciliation_statement/bank_reconciliation_statement.txt
+END

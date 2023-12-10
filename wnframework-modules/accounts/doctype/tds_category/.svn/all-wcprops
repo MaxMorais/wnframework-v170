@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/901/trunk/accounts/doctype/tds_category
+END
+tds_category.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/256/trunk/accounts/doctype/tds_category/tds_category.js
+END
+tds_category.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/901/trunk/accounts/doctype/tds_category/tds_category.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/256/trunk/accounts/doctype/tds_category/__init__.py
+END
+tds_category.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/256/trunk/accounts/doctype/tds_category/tds_category.py
+END

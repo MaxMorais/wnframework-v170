@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/328/trunk/application_internal/doctype/wn_account_control
+END
+wn_account_control.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/256/trunk/application_internal/doctype/wn_account_control/wn_account_control.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/256/trunk/application_internal/doctype/wn_account_control/__init__.py
+END
+wn_account_control.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/256/trunk/application_internal/doctype/wn_account_control/wn_account_control.py
+END

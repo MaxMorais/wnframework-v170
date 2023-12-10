@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1155/trunk/projects/doctype/ticket
+END
+ticket.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/510/trunk/projects/doctype/ticket/ticket.py
+END
+ticket.comp.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/256/trunk/projects/doctype/ticket/ticket.comp.js
+END
+ticket.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/256/trunk/projects/doctype/ticket/ticket.js
+END
+ticket.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1155/trunk/projects/doctype/ticket/ticket.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/256/trunk/projects/doctype/ticket/__init__.py
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/328/trunk/application_internal/doctype/transfer_account
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/256/trunk/application_internal/doctype/transfer_account/__init__.py
+END
+transfer_account.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/256/trunk/application_internal/doctype/transfer_account/transfer_account.txt
+END

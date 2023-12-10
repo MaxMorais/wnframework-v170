@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/328/trunk/application_internal/doctype/mail_participant_details
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/256/trunk/application_internal/doctype/mail_participant_details/__init__.py
+END
+mail_participant_details.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/256/trunk/application_internal/doctype/mail_participant_details/mail_participant_details.txt
+END

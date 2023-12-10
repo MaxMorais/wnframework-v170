@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1155/trunk/payroll/doctype/appraisal
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/256/trunk/payroll/doctype/appraisal/__init__.py
+END
+appraisal.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/256/trunk/payroll/doctype/appraisal/appraisal.js
+END
+appraisal.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1155/trunk/payroll/doctype/appraisal/appraisal.txt
+END
+appraisal.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/256/trunk/payroll/doctype/appraisal/appraisal.py
+END

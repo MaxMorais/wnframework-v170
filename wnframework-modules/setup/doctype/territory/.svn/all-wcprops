@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/328/trunk/setup/doctype/territory
+END
+territory.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/256/trunk/setup/doctype/territory/territory.js
+END
+territory.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/256/trunk/setup/doctype/territory/territory.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/256/trunk/setup/doctype/territory/__init__.py
+END
+territory.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/264/trunk/setup/doctype/territory/territory.py
+END

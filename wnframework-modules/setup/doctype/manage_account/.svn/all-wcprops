@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1215/trunk/setup/doctype/manage_account
+END
+manage_account.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/943/trunk/setup/doctype/manage_account/manage_account.js
+END
+manage_account.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1215/trunk/setup/doctype/manage_account/manage_account.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/256/trunk/setup/doctype/manage_account/__init__.py
+END
+manage_account.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/943/trunk/setup/doctype/manage_account/manage_account.py
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/463/trunk/tools/page/messages
+END
+messages.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/256/trunk/tools/page/messages/messages.html
+END
+messages_static.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/256/trunk/tools/page/messages/messages_static.html
+END
+messages.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/383/trunk/tools/page/messages/messages.js
+END
+messages.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/256/trunk/tools/page/messages/messages.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/463/trunk/tools/page/messages/__init__.py
+END

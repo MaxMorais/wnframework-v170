@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1009/trunk/setup/doctype/price_list
+END
+price_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/984/trunk/setup/doctype/price_list/price_list.js
+END
+price_list.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1009/trunk/setup/doctype/price_list/price_list.txt
+END
+price_list.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/256/trunk/setup/doctype/price_list/price_list.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/256/trunk/setup/doctype/price_list/__init__.py
+END

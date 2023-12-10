@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1167/trunk/accounts/doctype/gl_control
+END
+gl_control.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1167/trunk/accounts/doctype/gl_control/gl_control.py
+END
+gl_control.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/256/trunk/accounts/doctype/gl_control/gl_control.js
+END
+gl_control.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/256/trunk/accounts/doctype/gl_control/gl_control.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/256/trunk/accounts/doctype/gl_control/__init__.py
+END

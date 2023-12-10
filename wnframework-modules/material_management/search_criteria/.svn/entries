@@ -1,0 +1,80 @@
+10
+
+dir
+1280
+http://wnframework-modules.googlecode.com/svn/trunk/material_management/search_criteria
+http://wnframework-modules.googlecode.com/svn
+
+
+
+2011-05-26T12:28:18.109688Z
+1215
+ravi@iwebnotes.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+8f373c1c-ccec-715c-ec2e-e4704dfe974a
+
+stock_ledger
+dir
+
+__init__.py
+file
+
+
+
+
+2016-01-10T23:35:22.568985Z
+d41d8cd98f00b204e9800998ecf8427e
+2011-05-09T08:50:14.000286Z
+1111
+rmehta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+stock_level
+dir
+
+stock_report
+dir
+
+shortage_to_indent
+dir
+
+stock_aging_report
+dir
+
+itemwise_price_list
+dir
+

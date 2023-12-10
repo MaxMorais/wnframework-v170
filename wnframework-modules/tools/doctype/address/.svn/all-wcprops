@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1220/trunk/tools/doctype/address
+END
+address.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1192/trunk/tools/doctype/address/address.js
+END
+address.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1215/trunk/tools/doctype/address/address.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1192/trunk/tools/doctype/address/__init__.py
+END
+address.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1220/trunk/tools/doctype/address/address.py
+END
+address.comp.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1192/trunk/tools/doctype/address/address.comp.js
+END

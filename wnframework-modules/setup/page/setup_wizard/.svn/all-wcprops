@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1255/trunk/setup/page/setup_wizard
+END
+setup_wizard_static.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/256/trunk/setup/page/setup_wizard/setup_wizard_static.html
+END
+setup_wizard.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/256/trunk/setup/page/setup_wizard/setup_wizard.js
+END
+setup_wizard.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/256/trunk/setup/page/setup_wizard/setup_wizard.txt
+END
+setup_wizard.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1255/trunk/setup/page/setup_wizard/setup_wizard.html
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/463/trunk/setup/page/setup_wizard/__init__.py
+END

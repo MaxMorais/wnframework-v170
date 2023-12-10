@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1215/trunk/material_management/doctype/purchase_receipt
+END
+purchase_receipt.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1192/trunk/material_management/doctype/purchase_receipt/purchase_receipt.py
+END
+purchase_receipt.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1215/trunk/material_management/doctype/purchase_receipt/purchase_receipt.js
+END
+purchase_receipt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1215/trunk/material_management/doctype/purchase_receipt/purchase_receipt.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/256/trunk/material_management/doctype/purchase_receipt/__init__.py
+END

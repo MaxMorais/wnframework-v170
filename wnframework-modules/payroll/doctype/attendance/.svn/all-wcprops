@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1161/trunk/payroll/doctype/attendance
+END
+attendance.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/256/trunk/payroll/doctype/attendance/attendance.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/256/trunk/payroll/doctype/attendance/__init__.py
+END
+attendance.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1161/trunk/payroll/doctype/attendance/attendance.py
+END
+attendance.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1161/trunk/payroll/doctype/attendance/attendance.js
+END

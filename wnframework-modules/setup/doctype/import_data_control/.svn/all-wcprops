@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/328/trunk/setup/doctype/import_data_control
+END
+import_data_control.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/256/trunk/setup/doctype/import_data_control/import_data_control.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/256/trunk/setup/doctype/import_data_control/__init__.py
+END
+import_data_control.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/256/trunk/setup/doctype/import_data_control/import_data_control.py
+END

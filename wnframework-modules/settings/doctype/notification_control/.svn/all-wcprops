@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/983/trunk/settings/doctype/notification_control
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/256/trunk/settings/doctype/notification_control/__init__.py
+END
+notification_control.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/983/trunk/settings/doctype/notification_control/notification_control.py
+END
+notification_control.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/256/trunk/settings/doctype/notification_control/notification_control.js
+END
+notification_control.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/256/trunk/settings/doctype/notification_control/notification_control.txt
+END

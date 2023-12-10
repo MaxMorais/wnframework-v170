@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/328/trunk/application_internal/doctype/form_settings
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/256/trunk/application_internal/doctype/form_settings/__init__.py
+END
+form_settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/256/trunk/application_internal/doctype/form_settings/form_settings.py
+END
+form_settings.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/256/trunk/application_internal/doctype/form_settings/form_settings.js
+END
+form_settings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/256/trunk/application_internal/doctype/form_settings/form_settings.txt
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1111/trunk/crm/search_criteria/variance_report
+END
+variance_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1111/trunk/crm/search_criteria/variance_report/variance_report.py
+END
+variance_report.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1111/trunk/crm/search_criteria/variance_report/variance_report.js
+END
+variance_report.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1111/trunk/crm/search_criteria/variance_report/variance_report.sql
+END
+variance_report.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1111/trunk/crm/search_criteria/variance_report/variance_report.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1111/trunk/crm/search_criteria/variance_report/__init__.py
+END

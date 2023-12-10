@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/328/trunk/application_internal/doctype/payroll_tips_common
+END
+payroll_tips_common.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/256/trunk/application_internal/doctype/payroll_tips_common/payroll_tips_common.js
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/256/trunk/application_internal/doctype/payroll_tips_common/__init__.py
+END
+payroll_tips_common.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/256/trunk/application_internal/doctype/payroll_tips_common/payroll_tips_common.txt
+END

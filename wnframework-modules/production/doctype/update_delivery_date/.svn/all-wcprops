@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1155/trunk/production/doctype/update_delivery_date
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/256/trunk/production/doctype/update_delivery_date/__init__.py
+END
+update_delivery_date.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/256/trunk/production/doctype/update_delivery_date/update_delivery_date.py
+END
+update_delivery_date.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/256/trunk/production/doctype/update_delivery_date/update_delivery_date.js
+END
+update_delivery_date.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1155/trunk/production/doctype/update_delivery_date/update_delivery_date.txt
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/600/trunk/crm/doctype/sms_center
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/256/trunk/crm/doctype/sms_center/__init__.py
+END
+sms_center.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/600/trunk/crm/doctype/sms_center/sms_center.py
+END
+sms_center.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/600/trunk/crm/doctype/sms_center/sms_center.js
+END
+sms_center.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/600/trunk/crm/doctype/sms_center/sms_center.txt
+END

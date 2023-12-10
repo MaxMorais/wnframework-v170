@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1271/trunk/crm/doctype/sales_common
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/256/trunk/crm/doctype/sales_common/__init__.py
+END
+sales_common.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1271/trunk/crm/doctype/sales_common/sales_common.py
+END
+sales_common.comp.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1192/trunk/crm/doctype/sales_common/sales_common.comp.js
+END
+sales_common.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1192/trunk/crm/doctype/sales_common/sales_common.js
+END
+sales_common.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/256/trunk/crm/doctype/sales_common/sales_common.txt
+END

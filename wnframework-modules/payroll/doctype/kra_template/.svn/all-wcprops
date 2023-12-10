@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/328/trunk/payroll/doctype/kra_template
+END
+kra_template.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/256/trunk/payroll/doctype/kra_template/kra_template.js
+END
+kra_template.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/256/trunk/payroll/doctype/kra_template/kra_template.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/256/trunk/payroll/doctype/kra_template/__init__.py
+END

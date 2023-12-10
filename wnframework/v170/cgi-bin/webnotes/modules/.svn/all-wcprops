@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1911/trunk/v170/cgi-bin/webnotes/modules
+END
+module_manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1720/trunk/v170/cgi-bin/webnotes/modules/module_manager.py
+END
+patch.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1871/trunk/v170/cgi-bin/webnotes/modules/patch.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1773/trunk/v170/cgi-bin/webnotes/modules/__init__.py
+END
+import_module.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1911/trunk/v170/cgi-bin/webnotes/modules/import_module.py
+END
+export_module.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1864/trunk/v170/cgi-bin/webnotes/modules/export_module.py
+END
+compress.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1905/trunk/v170/cgi-bin/webnotes/modules/compress.py
+END

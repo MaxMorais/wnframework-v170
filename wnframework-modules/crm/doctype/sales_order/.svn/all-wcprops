@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1269/trunk/crm/doctype/sales_order
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/256/trunk/crm/doctype/sales_order/__init__.py
+END
+sales_order.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1268/trunk/crm/doctype/sales_order/sales_order.py
+END
+sales_order.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1269/trunk/crm/doctype/sales_order/sales_order.js
+END
+sales_order.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1262/trunk/crm/doctype/sales_order/sales_order.txt
+END

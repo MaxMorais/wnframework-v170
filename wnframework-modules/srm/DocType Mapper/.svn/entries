@@ -1,0 +1,40 @@
+10
+
+dir
+1280
+http://wnframework-modules.googlecode.com/svn/trunk/srm/DocType%20Mapper
+http://wnframework-modules.googlecode.com/svn
+
+
+
+2011-04-06T08:20:34.113446Z
+871
+nabinhait
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+8f373c1c-ccec-715c-ec2e-e4704dfe974a
+
+Indent-Purchase Order
+dir
+
+Purchase Order-Purchase Receipt
+dir
+
+Purchase Receipt-Payable Voucher
+dir
+
+Purchase Order-Payable Voucher
+dir
+

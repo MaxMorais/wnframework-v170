@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1111/trunk/payroll/search_criteria/pending_expense_vouchers
+END
+pending_expense_vouchers.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1111/trunk/payroll/search_criteria/pending_expense_vouchers/pending_expense_vouchers.js
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1111/trunk/payroll/search_criteria/pending_expense_vouchers/__init__.py
+END
+pending_expense_vouchers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1111/trunk/payroll/search_criteria/pending_expense_vouchers/pending_expense_vouchers.txt
+END

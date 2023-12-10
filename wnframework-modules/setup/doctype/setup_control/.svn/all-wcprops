@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1217/trunk/setup/doctype/setup_control
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/256/trunk/setup/doctype/setup_control/__init__.py
+END
+setup_control.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1217/trunk/setup/doctype/setup_control/setup_control.py
+END
+setup_control.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/256/trunk/setup/doctype/setup_control/setup_control.txt
+END

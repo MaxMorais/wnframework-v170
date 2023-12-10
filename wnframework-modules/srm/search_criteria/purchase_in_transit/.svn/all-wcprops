@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1111/trunk/srm/search_criteria/purchase_in_transit
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1111/trunk/srm/search_criteria/purchase_in_transit/__init__.py
+END
+purchase_in_transit.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1111/trunk/srm/search_criteria/purchase_in_transit/purchase_in_transit.py
+END
+purchase_in_transit.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1111/trunk/srm/search_criteria/purchase_in_transit/purchase_in_transit.js
+END
+purchase_in_transit.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1111/trunk/srm/search_criteria/purchase_in_transit/purchase_in_transit.txt
+END

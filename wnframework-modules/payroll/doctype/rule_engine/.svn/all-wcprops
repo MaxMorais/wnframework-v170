@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/328/trunk/payroll/doctype/rule_engine
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/256/trunk/payroll/doctype/rule_engine/__init__.py
+END
+rule_engine.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/256/trunk/payroll/doctype/rule_engine/rule_engine.txt
+END

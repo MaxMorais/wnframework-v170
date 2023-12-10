@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/328/trunk/settings/doctype/setup_wizard_control
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/256/trunk/settings/doctype/setup_wizard_control/__init__.py
+END
+setup_wizard_control.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/256/trunk/settings/doctype/setup_wizard_control/setup_wizard_control.py
+END
+setup_wizard_control.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/256/trunk/settings/doctype/setup_wizard_control/setup_wizard_control.txt
+END

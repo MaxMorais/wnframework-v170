@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1906/trunk/v170/cgi-bin/core/doctype/control_panel
+END
+control_panel.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1808/trunk/v170/cgi-bin/core/doctype/control_panel/control_panel.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1534/trunk/v170/cgi-bin/core/doctype/control_panel/__init__.py
+END
+control_panel.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1906/trunk/v170/cgi-bin/core/doctype/control_panel/control_panel.txt
+END

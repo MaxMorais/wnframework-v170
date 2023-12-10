@@ -1,0 +1,210 @@
+
+
+Error in /home/tmx-dev-05/Downloads/wn/test.db:
+Traceback (innermost last):
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/modules/patch.py", line 15, in run
+    patch.execute(i)
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/../../../../wnframework-modules/patches/patch.py", line 27, in execute
+    fk_list  = t.get_foreign_keys()
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/model/db_schema.py", line 130, in get_foreign_keys
+    txt = webnotes.conn.sql("select sql from sqlite_master where name=?", (self.name,))[0][1]
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+ IndexError: list index out of range
+
+
+Error in /home/tmx-dev-05/Downloads/wn/test.db:
+Traceback (innermost last):
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/modules/patch.py", line 15, in run
+    patch.execute(i)
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/../../../../wnframework-modules/patches/patch.py", line 27, in execute
+    fk_list  = t.get_foreign_keys()
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/model/db_schema.py", line 130, in get_foreign_keys
+    txt = webnotes.conn.sql("select sql from sqlite_master where name=?", (self.name,))[0][1]
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+ IndexError: list index out of range
+
+
+Error in /home/tmx-dev-05/Downloads/wn/test.db:
+Traceback (innermost last):
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/modules/patch.py", line 15, in run
+    patch.execute(i)
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/../../../../wnframework-modules/patches/patch.py", line 27, in execute
+    fk_list  = t.get_foreign_keys()
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/model/db_schema.py", line 130, in get_foreign_keys
+    txt = webnotes.conn.sql("select sql from sqlite_master where name=?", (self.name,))[0][1]
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+ IndexError: list index out of range
+
+
+Error in /home/tmx-dev-05/Downloads/wn/test.db:
+Traceback (innermost last):
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/modules/patch.py", line 15, in run
+    patch.execute(i)
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/../../../../wnframework-modules/patches/patch.py", line 27, in execute
+    fk_list  = t.get_foreign_keys()
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/model/db_schema.py", line 130, in get_foreign_keys
+    txt = webnotes.conn.sql("select sql from sqlite_master where name=?", (self.name,))[0][1]
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+ IndexError: list index out of range
+
+
+Error in /home/tmx-dev-05/Downloads/wn/test.db:
+Traceback (innermost last):
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/modules/patch.py", line 15, in run
+    patch.execute(i)
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/../../../../wnframework-modules/patches/patch.py", line 27, in execute
+    fk_list  = t.get_foreign_keys()
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/model/db_schema.py", line 130, in get_foreign_keys
+    txt = webnotes.conn.sql("select sql from sqlite_master where name=?", (self.name,))[0][1]
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+ IndexError: list index out of range
+
+
+Error in /home/tmx-dev-05/Downloads/wn/test.db:
+Traceback (innermost last):
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/modules/patch.py", line 15, in run
+    patch.execute(i)
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/../../../../wnframework-modules/patches/patch.py", line 27, in execute
+    fk_list  = t.get_foreign_keys()
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/model/db_schema.py", line 130, in get_foreign_keys
+    txt = webnotes.conn.sql("select sql from sqlite_master where name=?", (self.name,))[0][1]
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+ IndexError: list index out of range
+
+
+Error in /home/tmx-dev-05/Downloads/wn/test.db:
+Traceback (innermost last):
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/modules/patch.py", line 15, in run
+    patch.execute(i)
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/../../../../wnframework-modules/patches/patch.py", line 27, in execute
+    fk_list  = t.get_foreign_keys()
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/model/db_schema.py", line 130, in get_foreign_keys
+    txt = webnotes.conn.sql("select sql from sqlite_master where name=?", (self.name,))[0][1]
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+ IndexError: list index out of range
+
+
+Error in /home/tmx-dev-05/Downloads/wn/test.db:
+Traceback (innermost last):
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/modules/patch.py", line 15, in run
+    patch.execute(i)
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/../../../../wnframework-modules/patches/patch.py", line 27, in execute
+    fk_list  = t.get_foreign_keys()
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/model/db_schema.py", line 130, in get_foreign_keys
+    txt = webnotes.conn.sql("select sql from sqlite_master where name=?", (self.name,))[0][1]
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+ IndexError: list index out of range
+
+
+Error in /home/tmx-dev-05/Downloads/wn/test.db:
+Traceback (innermost last):
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/modules/patch.py", line 15, in run
+    patch.execute(i)
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/../../../../wnframework-modules/patches/patch.py", line 27, in execute
+    fk_list  = t.get_foreign_keys()
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/model/db_schema.py", line 130, in get_foreign_keys
+    txt = webnotes.conn.sql("select sql from sqlite_master where name=?", (self.name,))[0][1]
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+ IndexError: list index out of range
+
+
+Error in /home/tmx-dev-05/Downloads/wn/test.db:
+Traceback (innermost last):
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/modules/patch.py", line 15, in run
+    patch.execute(i)
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/../../../../wnframework-modules/patches/patch.py", line 27, in execute
+    fk_list  = t.get_foreign_keys()
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/model/db_schema.py", line 130, in get_foreign_keys
+    txt = webnotes.conn.sql("select sql from sqlite_master where name=?", (self.name,))[0][1]
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+ IndexError: list index out of range
+
+
+Error in /home/tmx-dev-05/Downloads/wn/test.db:
+Traceback (innermost last):
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/modules/patch.py", line 15, in run
+    patch.execute(i)
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/../../../../wnframework-modules/patches/patch.py", line 27, in execute
+    fk_list  = t.get_foreign_keys()
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/model/db_schema.py", line 131, in get_foreign_keys
+    txt = webnotes.conn.sql("select sql from sqlite_master where name=?", (self.name,))[0][1]
+          ^^^^^^^^
+  File "/usr/lib/python3.11/bdb.py", line 90, in trace_dispatch
+    return self.dispatch_line(frame)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/bdb.py", line 115, in dispatch_line
+    if self.quitting: raise BdbQuit
+                      ^^^^^^^^^^^^^
+ bdb.BdbQuit
+
+
+Error in /home/tmx-dev-05/Downloads/wn/test.db:
+Traceback (innermost last):
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/modules/patch.py", line 15, in run
+    patch.execute(i)
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/../../../../wnframework-modules/patches/patch.py", line 60, in execute
+    import_from_files(record_list=[['material_management','doctype','item']])
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/modules/import_module.py", line 108, in import_from_files
+    ret += accept_module(all_doclist)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/modules/import_module.py", line 210, in accept_module
+    webnotes.conn.sql("START TRANSACTION")
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/db.py", line 133, in sql
+    self._cursor.execute(query)
+ sqlite3.OperationalError: near "START": syntax error
+
+
+Error in /home/tmx-dev-05/Downloads/wn/test.db:
+Traceback (innermost last):
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/modules/patch.py", line 15, in run
+    patch.execute(i)
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/../../../../wnframework-modules/patches/patch.py", line 62, in execute
+    acc = sql("select name, lft, rgt from tabAccount where account_name in ('Incomes', 'Expenses')")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/db.py", line 133, in sql
+    self._cursor.execute(query)
+ sqlite3.OperationalError: no such table: tabAccount
+
+
+Error in /home/tmx-dev-05/Downloads/wn/test.db:
+Traceback (innermost last):
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/modules/patch.py", line 15, in run
+    patch.execute(i)
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/../../../../wnframework-modules/patches/patch.py", line 62, in execute
+    acc = sql("select name, lft, rgt from tabAccount where account_name in ('Incomes', 'Expenses')")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/db.py", line 133, in sql
+    self._cursor.execute(query)
+ sqlite3.OperationalError: no such table: tabAccount
+
+
+Error in /home/tmx-dev-05/Downloads/wn/test.db:
+Traceback (innermost last):
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/modules/patch.py", line 15, in run
+    patch.execute(i)
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/../../../../wnframework-modules/patches/patch.py", line 1093, in execute
+    reload_doc('accounts', 'search_criteria', 'purchase_register')
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/modules/module_manager.py", line 34, in reload_doc
+    import_file(module, dt, dn)
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/modules/import_module.py", line 65, in import_file
+    set_doc(doclist, 1, 1, 1)
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/utils/transfer.py", line 31, in set_doc
+    ud.sync()
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/utils/transfer.py", line 56, in sync
+    self.delete_existing()
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/utils/transfer.py", line 83, in delete_existing
+    webnotes.conn.sql("set foreign_key_checks=0")
+  File "/home/tmx-dev-05/Downloads/wn/wnframework/v170/cgi-bin/webnotes/db.py", line 133, in sql
+    self._cursor.execute(query)
+ sqlite3.OperationalError: near "set": syntax error

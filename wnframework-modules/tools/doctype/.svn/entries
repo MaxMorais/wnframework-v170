@@ -1,0 +1,131 @@
+10
+
+dir
+1280
+http://wnframework-modules.googlecode.com/svn/trunk/tools/doctype
+http://wnframework-modules.googlecode.com/svn
+
+
+
+2011-05-30T11:11:02.394092Z
+1248
+ravi@iwebnotes.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+8f373c1c-ccec-715c-ec2e-e4704dfe974a
+
+sms_control
+dir
+
+sms_log
+dir
+
+activity_dashboard_control
+dir
+
+wiki_control
+dir
+
+business_letter_template
+dir
+
+reposting_tool
+dir
+
+business_letter
+dir
+
+business_letter_type
+dir
+
+contact_detail
+dir
+
+while_you_were_out
+dir
+
+rating_template
+dir
+
+trash_control
+dir
+
+file_browser_control
+dir
+
+todo_item
+dir
+
+wiki_history
+dir
+
+rating_widget_record
+dir
+
+address
+dir
+
+receiver_detail
+dir
+
+__init__.py
+file
+
+
+
+
+2016-01-10T23:35:23.420866Z
+d41d8cd98f00b204e9800998ecf8427e
+2011-01-04T15:34:09.862929Z
+256
+rmehta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+rating_widget_control
+dir
+
+tweet
+dir
+
+contact
+dir
+
+wiki_page
+dir
+
+rating_template_detail
+dir
+

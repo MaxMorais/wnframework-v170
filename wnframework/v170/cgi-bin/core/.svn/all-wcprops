@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1911/trunk/v170/cgi-bin/core
+END
+module.info
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1674/trunk/v170/cgi-bin/core/module.info
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1534/trunk/v170/cgi-bin/core/__init__.py
+END

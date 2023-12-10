@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/328/trunk/application_internal/doctype/module_tip_control
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/256/trunk/application_internal/doctype/module_tip_control/__init__.py
+END
+module_tip_control.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/256/trunk/application_internal/doctype/module_tip_control/module_tip_control.py
+END
+module_tip_control.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/256/trunk/application_internal/doctype/module_tip_control/module_tip_control.txt
+END

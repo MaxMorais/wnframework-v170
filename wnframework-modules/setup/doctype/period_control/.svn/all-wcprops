@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/328/trunk/setup/doctype/period_control
+END
+period_control.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/256/trunk/setup/doctype/period_control/period_control.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/256/trunk/setup/doctype/period_control/__init__.py
+END
+period_control.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/256/trunk/setup/doctype/period_control/period_control.py
+END

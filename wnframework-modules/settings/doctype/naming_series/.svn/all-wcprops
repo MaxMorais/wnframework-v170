@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/777/trunk/settings/doctype/naming_series
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/256/trunk/settings/doctype/naming_series/__init__.py
+END
+naming_series.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/777/trunk/settings/doctype/naming_series/naming_series.py
+END
+naming_series.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/256/trunk/settings/doctype/naming_series/naming_series.js
+END
+naming_series.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/256/trunk/settings/doctype/naming_series/naming_series.txt
+END

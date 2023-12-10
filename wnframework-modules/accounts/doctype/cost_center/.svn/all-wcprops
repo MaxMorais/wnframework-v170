@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1266/trunk/accounts/doctype/cost_center
+END
+cost_center.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/256/trunk/accounts/doctype/cost_center/cost_center.js
+END
+cost_center.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/256/trunk/accounts/doctype/cost_center/cost_center.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/256/trunk/accounts/doctype/cost_center/__init__.py
+END
+cost_center.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1266/trunk/accounts/doctype/cost_center/cost_center.py
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1248/trunk/crm/doctype/quotation
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/256/trunk/crm/doctype/quotation/__init__.py
+END
+quotation.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1192/trunk/crm/doctype/quotation/quotation.py
+END
+quotation.comp.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1215/trunk/crm/doctype/quotation/quotation.comp.js
+END
+quotation.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1248/trunk/crm/doctype/quotation/quotation.js
+END
+quotation.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1215/trunk/crm/doctype/quotation/quotation.txt
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/328/trunk/accounts/doctype/tds_return_acknowledgement
+END
+tds_return_acknowledgement.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/256/trunk/accounts/doctype/tds_return_acknowledgement/tds_return_acknowledgement.js
+END
+tds_return_acknowledgement.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/256/trunk/accounts/doctype/tds_return_acknowledgement/tds_return_acknowledgement.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/256/trunk/accounts/doctype/tds_return_acknowledgement/__init__.py
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/cost_center_wise_expense
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/cost_center_wise_expense/__init__.py
+END
+cost_center_wise_expense.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/cost_center_wise_expense/cost_center_wise_expense.py
+END
+cost_center_wise_expense.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/cost_center_wise_expense/cost_center_wise_expense.js
+END
+cost_center_wise_expense.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/cost_center_wise_expense/cost_center_wise_expense.txt
+END
+cost_center_wise_expense.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/cost_center_wise_expense/cost_center_wise_expense.sql
+END

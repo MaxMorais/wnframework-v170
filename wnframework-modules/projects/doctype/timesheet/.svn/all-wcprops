@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1155/trunk/projects/doctype/timesheet
+END
+timesheet.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/256/trunk/projects/doctype/timesheet/timesheet.py
+END
+timesheet.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/655/trunk/projects/doctype/timesheet/timesheet.js
+END
+timesheet.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1155/trunk/projects/doctype/timesheet/timesheet.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/256/trunk/projects/doctype/timesheet/__init__.py
+END

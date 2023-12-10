@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1215/trunk/crm/doctype/lead
+END
+lead.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1215/trunk/crm/doctype/lead/lead.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/256/trunk/crm/doctype/lead/__init__.py
+END
+lead.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1192/trunk/crm/doctype/lead/lead.py
+END
+lead.comp.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1192/trunk/crm/doctype/lead/lead.comp.js
+END
+lead.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1192/trunk/crm/doctype/lead/lead.js
+END

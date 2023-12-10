@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1155/trunk/payroll/doctype/expense_voucher
+END
+expense_voucher.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/256/trunk/payroll/doctype/expense_voucher/expense_voucher.py
+END
+expense_voucher.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/665/trunk/payroll/doctype/expense_voucher/expense_voucher.js
+END
+expense_voucher.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1155/trunk/payroll/doctype/expense_voucher/expense_voucher.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/256/trunk/payroll/doctype/expense_voucher/__init__.py
+END

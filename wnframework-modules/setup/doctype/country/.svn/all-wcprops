@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1192/trunk/setup/doctype/country
+END
+country.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1192/trunk/setup/doctype/country/country.js
+END
+country.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/256/trunk/setup/doctype/country/country.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/256/trunk/setup/doctype/country/__init__.py
+END

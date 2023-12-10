@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1275/trunk/accounts/search_criteria/general_ledger
+END
+general_ledger.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/general_ledger/general_ledger.sql
+END
+general_ledger.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/general_ledger/general_ledger.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/general_ledger/__init__.py
+END
+general_ledger.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1275/trunk/accounts/search_criteria/general_ledger/general_ledger.py
+END
+general_ledger.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/general_ledger/general_ledger.js
+END

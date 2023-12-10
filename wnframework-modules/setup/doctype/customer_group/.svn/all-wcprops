@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/328/trunk/setup/doctype/customer_group
+END
+customer_group.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/256/trunk/setup/doctype/customer_group/customer_group.js
+END
+customer_group.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/256/trunk/setup/doctype/customer_group/customer_group.txt
+END
+customer_group.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/264/trunk/setup/doctype/customer_group/customer_group.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/256/trunk/setup/doctype/customer_group/__init__.py
+END

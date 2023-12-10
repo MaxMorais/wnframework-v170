@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1265/trunk/srm/doctype/supplier
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/256/trunk/srm/doctype/supplier/__init__.py
+END
+supplier.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1265/trunk/srm/doctype/supplier/supplier.py
+END
+supplier.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1227/trunk/srm/doctype/supplier/supplier.js
+END
+supplier.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1215/trunk/srm/doctype/supplier/supplier.txt
+END

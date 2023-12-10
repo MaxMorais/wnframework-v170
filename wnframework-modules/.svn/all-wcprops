@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/svn/!svn/ver/1280/trunk
+END
+replacecode.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/383/trunk/replacecode.py
+END
+module-icons.png
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/511/trunk/module-icons.png
+END
+observers.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/510/trunk/observers.py
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/913/trunk/INSTALL.txt
+END
+Dependencies
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/909/trunk/Dependencies
+END
+event_handlers.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/765/trunk/event_handlers.py
+END
+master.sql.gz
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1272/trunk/master.sql.gz
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1903/trunk/v170/js/widgets/form
+END
+form.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1903/trunk/v170/js/widgets/form/form.js
+END
+print_format.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1900/trunk/v170/js/widgets/form/print_format.js
+END
+grid.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1740/trunk/v170/js/widgets/form/grid.js
+END
+form_container.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1902/trunk/v170/js/widgets/form/form_container.js
+END
+fields.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1899/trunk/v170/js/widgets/form/fields.js
+END
+email.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1897/trunk/v170/js/widgets/form/email.js
+END
+form_comments.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1704/trunk/v170/js/widgets/form/form_comments.js
+END
+form_grid.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1166/trunk/v170/js/widgets/form/form_grid.js
+END
+form_fields.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1858/trunk/v170/js/widgets/form/form_fields.js
+END
+form_header.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1877/trunk/v170/js/widgets/form/form_header.js
+END
+attachments.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1776/trunk/v170/js/widgets/form/attachments.js
+END
+clientscriptAPI.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1842/trunk/v170/js/widgets/form/clientscriptAPI.js
+END

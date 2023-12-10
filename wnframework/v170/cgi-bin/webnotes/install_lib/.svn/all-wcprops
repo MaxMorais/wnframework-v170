@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1910/trunk/v170/cgi-bin/webnotes/install_lib
+END
+install.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1910/trunk/v170/cgi-bin/webnotes/install_lib/install.py
+END
+db_init.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1858/trunk/v170/cgi-bin/webnotes/install_lib/db_init.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1561/trunk/v170/cgi-bin/webnotes/install_lib/__init__.py
+END

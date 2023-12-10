@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/328/trunk/payroll/doctype/deduction_type
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/256/trunk/payroll/doctype/deduction_type/__init__.py
+END
+deduction_type.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/256/trunk/payroll/doctype/deduction_type/deduction_type.js
+END
+deduction_type.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/256/trunk/payroll/doctype/deduction_type/deduction_type.txt
+END

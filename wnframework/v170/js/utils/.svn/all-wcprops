@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1905/trunk/v170/js/utils
+END
+json.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/167/trunk/v170/js/utils/json.js
+END
+browser_detect.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1741/trunk/v170/js/utils/browser_detect.js
+END
+datatype.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1826/trunk/v170/js/utils/datatype.js
+END
+datetime.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1856/trunk/v170/js/utils/datetime.js
+END
+handler.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1743/trunk/v170/js/utils/handler.js
+END
+dom.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1902/trunk/v170/js/utils/dom.js
+END
+rsh.compressed.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/229/trunk/v170/js/utils/rsh.compressed.js
+END
+msgprint.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1599/trunk/v170/js/utils/msgprint.js
+END
+printElement.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1752/trunk/v170/js/utils/printElement.js
+END

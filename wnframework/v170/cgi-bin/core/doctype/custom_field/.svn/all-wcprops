@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1906/trunk/v170/cgi-bin/core/doctype/custom_field
+END
+custom_field.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1864/trunk/v170/cgi-bin/core/doctype/custom_field/custom_field.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1864/trunk/v170/cgi-bin/core/doctype/custom_field/__init__.py
+END
+custom_field.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1864/trunk/v170/cgi-bin/core/doctype/custom_field/custom_field.js
+END
+custom_field.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1906/trunk/v170/cgi-bin/core/doctype/custom_field/custom_field.txt
+END

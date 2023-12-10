@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1150/trunk/setup/doctype/personalize
+END
+personalize.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1150/trunk/setup/doctype/personalize/personalize.txt
+END
+personalize.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/771/trunk/setup/doctype/personalize/personalize.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/771/trunk/setup/doctype/personalize/__init__.py
+END

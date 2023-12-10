@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/328/trunk/payroll/doctype/payroll_rule
+END
+payroll_rule.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/256/trunk/payroll/doctype/payroll_rule/payroll_rule.py
+END
+payroll_rule.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/256/trunk/payroll/doctype/payroll_rule/payroll_rule.js
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/256/trunk/payroll/doctype/payroll_rule/__init__.py
+END
+payroll_rule.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/256/trunk/payroll/doctype/payroll_rule/payroll_rule.txt
+END

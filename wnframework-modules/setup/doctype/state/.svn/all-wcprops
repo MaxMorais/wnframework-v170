@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/328/trunk/setup/doctype/state
+END
+state.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/256/trunk/setup/doctype/state/state.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/256/trunk/setup/doctype/state/__init__.py
+END
+state.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/256/trunk/setup/doctype/state/state.js
+END

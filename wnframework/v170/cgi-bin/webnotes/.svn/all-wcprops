@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1912/trunk/v170/cgi-bin/webnotes
+END
+defs_template.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1751/trunk/v170/cgi-bin/webnotes/defs_template.py
+END
+handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1831/trunk/v170/cgi-bin/webnotes/handler.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1911/trunk/v170/cgi-bin/webnotes/__init__.py
+END
+profile.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1750/trunk/v170/cgi-bin/webnotes/profile.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1758/trunk/v170/cgi-bin/webnotes/auth.py
+END
+db.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1903/trunk/v170/cgi-bin/webnotes/db.py
+END
+session_cache.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1911/trunk/v170/cgi-bin/webnotes/session_cache.py
+END

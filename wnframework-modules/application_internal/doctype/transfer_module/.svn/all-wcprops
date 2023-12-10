@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/328/trunk/application_internal/doctype/transfer_module
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/256/trunk/application_internal/doctype/transfer_module/__init__.py
+END
+transfer_module.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/256/trunk/application_internal/doctype/transfer_module/transfer_module.txt
+END

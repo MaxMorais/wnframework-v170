@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1191/trunk/accounts/search_criteria/budget_variance_report
+END
+budget_variance_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/budget_variance_report/budget_variance_report.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/budget_variance_report/__init__.py
+END
+budget_variance_report.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1191/trunk/accounts/search_criteria/budget_variance_report/budget_variance_report.js
+END
+budget_variance_report.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/budget_variance_report/budget_variance_report.sql
+END
+budget_variance_report.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/budget_variance_report/budget_variance_report.txt
+END

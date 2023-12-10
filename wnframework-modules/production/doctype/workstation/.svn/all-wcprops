@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/328/trunk/production/doctype/workstation
+END
+workstation.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/256/trunk/production/doctype/workstation/workstation.js
+END
+workstation.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/256/trunk/production/doctype/workstation/workstation.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/256/trunk/production/doctype/workstation/__init__.py
+END
+workstation.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/256/trunk/production/doctype/workstation/workstation.py
+END

@@ -1,0 +1,165 @@
+10
+
+dir
+1280
+http://wnframework-modules.googlecode.com/svn/trunk/crm/search_criteria
+http://wnframework-modules.googlecode.com/svn
+
+
+
+2011-06-07T11:32:20.210314Z
+1276
+nabinhait
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+8f373c1c-ccec-715c-ec2e-e4704dfe974a
+
+periodic_sales_summary
+dir
+
+delivered_items_to_be_install
+dir
+
+draft_sales_orders
+dir
+
+sales_orderwise_pending_qty_to_deliver
+dir
+
+sales_personwise_transaction_summary
+dir
+
+so_pending_items_3
+dir
+
+monthly_despatched_trend
+dir
+
+territories_target_variance_item_group_wise
+dir
+
+territory_item_group_wise_gp
+dir
+
+sales_agentwise_commission
+dir
+
+sales_persons_target_variance_item_group_wise
+dir
+
+gross_profit
+dir
+
+itemwise_sales_details
+dir
+
+variance_report
+dir
+
+sales_orderwise_pending_amount_to_bill
+dir
+
+delivery_note_itemwise_pending_to_bill
+dir
+
+__init__.py
+file
+
+
+
+
+2016-01-10T23:35:18.977491Z
+d41d8cd98f00b204e9800998ecf8427e
+2011-05-09T08:50:14.000286Z
+1111
+rmehta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+sales_orderwise_booking_&_delivery_summary
+dir
+
+sales_order_pending_items1
+dir
+
+target_variance_report
+dir
+
+territory_sales___variance_report
+dir
+
+total_target_variance_report
+dir
+
+itemwise_delivery_details
+dir
+
+follow_up_report
+dir
+
+sales_orderwise_booking_
+file
+
+
+
+
+2016-01-10T23:35:18.977491Z
+5e4f60d739fbd8777c3f5520ce1a87dc
+2011-05-09T08:50:14.000286Z
+1111
+rmehta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+266
+

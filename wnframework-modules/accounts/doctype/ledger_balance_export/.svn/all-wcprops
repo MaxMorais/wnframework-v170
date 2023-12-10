@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1215/trunk/accounts/doctype/ledger_balance_export
+END
+ledger_balance_export.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1199/trunk/accounts/doctype/ledger_balance_export/ledger_balance_export.py
+END
+ledger_balance_export.comp.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1199/trunk/accounts/doctype/ledger_balance_export/ledger_balance_export.comp.js
+END
+ledger_balance_export.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1199/trunk/accounts/doctype/ledger_balance_export/ledger_balance_export.js
+END
+ledger_balance_export.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1215/trunk/accounts/doctype/ledger_balance_export/ledger_balance_export.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1199/trunk/accounts/doctype/ledger_balance_export/__init__.py
+END

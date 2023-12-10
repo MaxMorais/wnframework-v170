@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/1709/trunk/unittests
+END
+unittests_selenium_basic_cases.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1709/trunk/unittests/unittests_selenium_basic_cases.py
+END
+TestPlan
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1709/trunk/unittests/TestPlan
+END
+testlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1709/trunk/unittests/testlib.py
+END
+unittests_doc.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1709/trunk/unittests/unittests_doc.py
+END
+testrunner.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1709/trunk/unittests/testrunner.py
+END
+unittests_login.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1692/trunk/unittests/unittests_login.py
+END
+unittests_code.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1709/trunk/unittests/unittests_code.py
+END

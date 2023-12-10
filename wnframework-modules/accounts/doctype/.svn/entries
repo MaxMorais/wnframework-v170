@@ -1,0 +1,191 @@
+10
+
+dir
+1280
+http://wnframework-modules.googlecode.com/svn/trunk/accounts/doctype
+http://wnframework-modules.googlecode.com/svn
+
+
+
+2011-06-03T06:39:03.770025Z
+1270
+nabinhait
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+8f373c1c-ccec-715c-ec2e-e4704dfe974a
+
+pv_detail
+dir
+
+ledger_balance_export
+dir
+
+rv_detail
+dir
+
+budget_control
+dir
+
+form_16a_ack_detail
+dir
+
+tds_detail
+dir
+
+gl_entry
+dir
+
+ledger_detail
+dir
+
+tds_rate_detail
+dir
+
+tds_category
+dir
+
+budget_distribution_detail
+dir
+
+pv_add_tax_detail
+dir
+
+account
+dir
+
+budget_detail
+dir
+
+accounts_setup
+dir
+
+gl_control
+dir
+
+mode_of_payment
+dir
+
+purchase_tax_detail
+dir
+
+payable_voucher
+dir
+
+form_16a_tax_detail
+dir
+
+cost_center
+dir
+
+budget_distribution
+dir
+
+tds_payment_detail
+dir
+
+form_16a
+dir
+
+bank_reconciliation_detail
+dir
+
+tds_return_acknowledgement
+dir
+
+fiscal_year
+dir
+
+advance_adjustment_detail
+dir
+
+rv_tax_detail
+dir
+
+tds_rate_chart
+dir
+
+__init__.py
+file
+
+
+
+
+2016-01-10T23:35:17.545695Z
+d41d8cd98f00b204e9800998ecf8427e
+2011-01-04T15:34:09.862929Z
+256
+rmehta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+journal_voucher_detail
+dir
+
+tds_payment
+dir
+
+advance_allocation_detail
+dir
+
+tds_control
+dir
+
+period_closing_voucher
+dir
+
+supplier_tds_category_detail
+dir
+
+receivable_voucher
+dir
+
+bank_reconciliation
+dir
+
+pos_setting
+dir
+
+pv_ded_tax_detail
+dir
+
+account_balance
+dir
+
+tds_category_account
+dir
+
+journal_voucher
+dir
+

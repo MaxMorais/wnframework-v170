@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/788/trunk/setup/doctype/erp_setup
+END
+erp_setup.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/256/trunk/setup/doctype/erp_setup/erp_setup.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/256/trunk/setup/doctype/erp_setup/__init__.py
+END
+erp_setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/788/trunk/setup/doctype/erp_setup/erp_setup.py
+END
+erp_setup.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/256/trunk/setup/doctype/erp_setup/erp_setup.js
+END

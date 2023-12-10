@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1149/trunk/event_updates/page/profile_settings
+END
+profile_settings.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/966/trunk/event_updates/page/profile_settings/profile_settings.html
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/966/trunk/event_updates/page/profile_settings/__init__.py
+END
+profile_settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/966/trunk/event_updates/page/profile_settings/profile_settings.py
+END
+profile_settings.comp.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/966/trunk/event_updates/page/profile_settings/profile_settings.comp.js
+END
+profile_settings.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/966/trunk/event_updates/page/profile_settings/profile_settings.js
+END
+profile_settings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1149/trunk/event_updates/page/profile_settings/profile_settings.txt
+END

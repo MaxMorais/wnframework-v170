@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1149/trunk/event_updates/doctype/feed
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/256/trunk/event_updates/doctype/feed/__init__.py
+END
+feed.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/256/trunk/event_updates/doctype/feed/feed.py
+END
+feed.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1149/trunk/event_updates/doctype/feed/feed.txt
+END

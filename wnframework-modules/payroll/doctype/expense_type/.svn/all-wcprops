@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/328/trunk/payroll/doctype/expense_type
+END
+expense_type.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/256/trunk/payroll/doctype/expense_type/expense_type.js
+END
+expense_type.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/256/trunk/payroll/doctype/expense_type/expense_type.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/256/trunk/payroll/doctype/expense_type/__init__.py
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/328/trunk/accounts/doctype/accounts_setup
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/256/trunk/accounts/doctype/accounts_setup/__init__.py
+END
+accounts_setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/256/trunk/accounts/doctype/accounts_setup/accounts_setup.py
+END
+accounts_setup.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/256/trunk/accounts/doctype/accounts_setup/accounts_setup.js
+END
+accounts_setup.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/256/trunk/accounts/doctype/accounts_setup/accounts_setup.txt
+END

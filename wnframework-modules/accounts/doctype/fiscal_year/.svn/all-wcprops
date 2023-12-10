@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1270/trunk/accounts/doctype/fiscal_year
+END
+fiscal_year.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/256/trunk/accounts/doctype/fiscal_year/fiscal_year.js
+END
+fiscal_year.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/256/trunk/accounts/doctype/fiscal_year/fiscal_year.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/256/trunk/accounts/doctype/fiscal_year/__init__.py
+END
+fiscal_year.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1270/trunk/accounts/doctype/fiscal_year/fiscal_year.py
+END

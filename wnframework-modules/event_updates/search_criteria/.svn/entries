@@ -1,0 +1,128 @@
+10
+
+dir
+1280
+http://wnframework-modules.googlecode.com/svn/trunk/event_updates/search_criteria
+http://wnframework-modules.googlecode.com/svn
+
+
+
+2011-05-09T08:50:14.000286Z
+1111
+rmehta
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+8f373c1c-ccec-715c-ec2e-e4704dfe974a
+
+invoices_to_receive_payment
+dir
+
+task_open
+dir
+
+enquiry_quotations_to_be_sent
+dir
+
+enquiry_to_follow_up
+dir
+
+sales_order_to_be_billed
+dir
+
+__init__.py
+file
+
+
+
+
+2016-01-10T23:35:24.672691Z
+d41d8cd98f00b204e9800998ecf8427e
+2011-05-09T08:50:14.000286Z
+1111
+rmehta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+purchase_order_to_be_billed
+dir
+
+sales_order_to_be_submitted
+dir
+
+delivery_note_to_be_billed
+dir
+
+sales_order_overdue
+dir
+
+serial_no_amc_expiring_this_month
+dir
+
+sales_order_to_be_delivered
+dir
+
+bills_to_be_submitted
+dir
+
+purchase_order_to_be_submitted
+dir
+
+lead_to_follow_up
+dir
+
+delivery_note_to_be_submitted
+dir
+
+serial_no_warranty_expiring_this_month
+dir
+
+indent_purchase_order_to_be_made
+dir
+
+invoices_to_be_submitted
+dir
+
+invoices_overdue
+dir
+
+indent_to_be_submitted
+dir
+
+bills_to_be_paid
+dir
+
+purchase_order_to_receive_items
+dir
+

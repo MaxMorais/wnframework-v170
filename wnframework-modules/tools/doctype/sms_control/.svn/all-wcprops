@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1234/trunk/tools/doctype/sms_control
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/256/trunk/tools/doctype/sms_control/__init__.py
+END
+sms_control.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1234/trunk/tools/doctype/sms_control/sms_control.py
+END
+sms_control.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1189/trunk/tools/doctype/sms_control/sms_control.js
+END
+sms_control.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/922/trunk/tools/doctype/sms_control/sms_control.txt
+END

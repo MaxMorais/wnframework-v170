@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/328/trunk/settings/doctype/email_settings
+END
+email_settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/256/trunk/settings/doctype/email_settings/email_settings.py
+END
+email_settings.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/256/trunk/settings/doctype/email_settings/email_settings.js
+END
+email_settings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/256/trunk/settings/doctype/email_settings/email_settings.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/256/trunk/settings/doctype/email_settings/__init__.py
+END

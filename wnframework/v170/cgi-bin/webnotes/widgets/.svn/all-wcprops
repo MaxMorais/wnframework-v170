@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1910/trunk/v170/cgi-bin/webnotes/widgets
+END
+auto_master.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1341/trunk/v170/cgi-bin/webnotes/widgets/auto_master.py
+END
+form.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1910/trunk/v170/cgi-bin/webnotes/widgets/form.py
+END
+todo.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/113/trunk/v170/cgi-bin/webnotes/widgets/todo.py
+END
+search.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1723/trunk/v170/cgi-bin/webnotes/widgets/search.py
+END
+menus.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1864/trunk/v170/cgi-bin/webnotes/widgets/menus.py
+END
+page_body.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1833/trunk/v170/cgi-bin/webnotes/widgets/page_body.py
+END
+query_builder.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1875/trunk/v170/cgi-bin/webnotes/widgets/query_builder.py
+END
+page.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1753/trunk/v170/cgi-bin/webnotes/widgets/page.py
+END
+tags.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1849/trunk/v170/cgi-bin/webnotes/widgets/tags.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/113/trunk/v170/cgi-bin/webnotes/widgets/__init__.py
+END
+event.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1434/trunk/v170/cgi-bin/webnotes/widgets/event.py
+END
+follow.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1720/trunk/v170/cgi-bin/webnotes/widgets/follow.py
+END

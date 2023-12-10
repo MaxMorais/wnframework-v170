@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/payment_receipt_report
+END
+payment_receipt_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/payment_receipt_report/payment_receipt_report.py
+END
+payment_receipt_report.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/payment_receipt_report/payment_receipt_report.sql
+END
+payment_receipt_report.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/payment_receipt_report/payment_receipt_report.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1111/trunk/accounts/search_criteria/payment_receipt_report/__init__.py
+END

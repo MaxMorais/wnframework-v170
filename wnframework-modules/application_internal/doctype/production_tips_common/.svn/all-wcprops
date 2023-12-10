@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/328/trunk/application_internal/doctype/production_tips_common
+END
+production_tips_common.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/256/trunk/application_internal/doctype/production_tips_common/production_tips_common.js
+END
+production_tips_common.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/256/trunk/application_internal/doctype/production_tips_common/production_tips_common.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/256/trunk/application_internal/doctype/production_tips_common/__init__.py
+END

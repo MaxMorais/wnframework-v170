@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1238/trunk/material_management/doctype/item
+END
+item.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1144/trunk/material_management/doctype/item/item.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/256/trunk/material_management/doctype/item/__init__.py
+END
+item.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1238/trunk/material_management/doctype/item/item.js
+END
+item.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1155/trunk/material_management/doctype/item/item.txt
+END

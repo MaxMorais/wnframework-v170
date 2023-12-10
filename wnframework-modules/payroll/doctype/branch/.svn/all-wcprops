@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/328/trunk/payroll/doctype/branch
+END
+branch.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/256/trunk/payroll/doctype/branch/branch.js
+END
+branch.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/256/trunk/payroll/doctype/branch/branch.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/256/trunk/payroll/doctype/branch/__init__.py
+END

@@ -1,0 +1,146 @@
+10
+
+dir
+1280
+http://wnframework-modules.googlecode.com/svn/trunk/material_management/doctype
+http://wnframework-modules.googlecode.com/svn
+
+
+
+2011-06-03T06:30:27.145050Z
+1269
+rmehta
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+8f373c1c-ccec-715c-ec2e-e4704dfe974a
+
+landed_cost_master
+dir
+
+delivery_note_detail
+dir
+
+item
+dir
+
+landed_cost_wizard
+dir
+
+warehouse
+dir
+
+valuation_control
+dir
+
+sales_and_purchase_return_wizard
+dir
+
+stock_entry
+dir
+
+sales_bom
+dir
+
+stock_ledger
+dir
+
+stock_reconciliation
+dir
+
+purchase_receipt_detail
+dir
+
+delivery_note
+dir
+
+bin
+dir
+
+ref_rate_detail
+dir
+
+item_tax
+dir
+
+item_attachments_detail
+dir
+
+serial_no
+dir
+
+landed_cost_master_detail
+dir
+
+item_specification_detail
+dir
+
+batch
+dir
+
+stock_uom_replace_utility
+dir
+
+purchase_receipt
+dir
+
+stock_entry_detail
+dir
+
+delivery_note_packing_detail
+dir
+
+sales_bom_detail
+dir
+
+stock_ledger_entry
+dir
+
+__init__.py
+file
+
+
+
+
+2016-01-10T23:35:22.476998Z
+d41d8cd98f00b204e9800998ecf8427e
+2011-01-04T15:34:09.862929Z
+256
+rmehta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+uom_conversion_detail
+dir
+

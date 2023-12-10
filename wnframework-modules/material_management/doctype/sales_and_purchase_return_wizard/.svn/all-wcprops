@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/672/trunk/material_management/doctype/sales_and_purchase_return_wizard
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/256/trunk/material_management/doctype/sales_and_purchase_return_wizard/__init__.py
+END
+sales_and_purchase_return_wizard.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/491/trunk/material_management/doctype/sales_and_purchase_return_wizard/sales_and_purchase_return_wizard.py
+END
+sales_and_purchase_return_wizard.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/672/trunk/material_management/doctype/sales_and_purchase_return_wizard/sales_and_purchase_return_wizard.js
+END
+sales_and_purchase_return_wizard.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/669/trunk/material_management/doctype/sales_and_purchase_return_wizard/sales_and_purchase_return_wizard.txt
+END

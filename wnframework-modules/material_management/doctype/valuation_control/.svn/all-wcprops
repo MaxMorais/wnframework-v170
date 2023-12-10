@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1216/trunk/material_management/doctype/valuation_control
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/256/trunk/material_management/doctype/valuation_control/__init__.py
+END
+valuation_control.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1216/trunk/material_management/doctype/valuation_control/valuation_control.py
+END
+valuation_control.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/256/trunk/material_management/doctype/valuation_control/valuation_control.txt
+END

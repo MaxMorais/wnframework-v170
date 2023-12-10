@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1155/trunk/payroll/doctype/employee
+END
+employee.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/534/trunk/payroll/doctype/employee/employee.js
+END
+employee.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1155/trunk/payroll/doctype/employee/employee.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/256/trunk/payroll/doctype/employee/__init__.py
+END
+employee.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/534/trunk/payroll/doctype/employee/employee.py
+END

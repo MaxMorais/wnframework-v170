@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/328/trunk/crm/doctype/campaign
+END
+campaign.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/256/trunk/crm/doctype/campaign/campaign.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/256/trunk/crm/doctype/campaign/__init__.py
+END
+campaign.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/256/trunk/crm/doctype/campaign/campaign.js
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1155/trunk/srm/doctype/qa_inspection_report
+END
+qa_inspection_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/897/trunk/srm/doctype/qa_inspection_report/qa_inspection_report.py
+END
+qa_inspection_report.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/256/trunk/srm/doctype/qa_inspection_report/qa_inspection_report.js
+END
+qa_inspection_report.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1155/trunk/srm/doctype/qa_inspection_report/qa_inspection_report.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/256/trunk/srm/doctype/qa_inspection_report/__init__.py
+END

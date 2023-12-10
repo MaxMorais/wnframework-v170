@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1192/trunk/srm/doctype/purchase_common
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/256/trunk/srm/doctype/purchase_common/__init__.py
+END
+purchase_common.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1096/trunk/srm/doctype/purchase_common/purchase_common.py
+END
+purchase_common.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1192/trunk/srm/doctype/purchase_common/purchase_common.js
+END
+purchase_common.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/256/trunk/srm/doctype/purchase_common/purchase_common.txt
+END

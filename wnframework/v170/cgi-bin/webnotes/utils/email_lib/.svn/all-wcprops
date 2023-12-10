@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1912/trunk/v170/cgi-bin/webnotes/utils/email_lib
+END
+receive.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1889/trunk/v170/cgi-bin/webnotes/utils/email_lib/receive.py
+END
+send.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1889/trunk/v170/cgi-bin/webnotes/utils/email_lib/send.py
+END
+form_email.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1912/trunk/v170/cgi-bin/webnotes/utils/email_lib/form_email.py
+END
+html2text.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1889/trunk/v170/cgi-bin/webnotes/utils/email_lib/html2text.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1890/trunk/v170/cgi-bin/webnotes/utils/email_lib/__init__.py
+END

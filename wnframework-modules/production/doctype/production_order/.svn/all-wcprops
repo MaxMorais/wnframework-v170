@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/885/trunk/production/doctype/production_order
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/256/trunk/production/doctype/production_order/__init__.py
+END
+production_order.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/885/trunk/production/doctype/production_order/production_order.py
+END
+production_order.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/256/trunk/production/doctype/production_order/production_order.js
+END
+production_order.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/256/trunk/production/doctype/production_order/production_order.txt
+END

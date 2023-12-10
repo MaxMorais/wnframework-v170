@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1905/trunk/v170/js/widgets
+END
+autosuggest.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1716/trunk/v170/js/widgets/autosuggest.js
+END
+list_selector.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1489/trunk/v170/js/widgets/list_selector.js
+END
+layout.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1472/trunk/v170/js/widgets/layout.js
+END
+tabbedpage.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1488/trunk/v170/js/widgets/tabbedpage.js
+END
+tags.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1849/trunk/v170/js/widgets/tags.js
+END
+dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1716/trunk/v170/js/widgets/dialog.js
+END
+select.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1434/trunk/v170/js/widgets/select.js
+END
+tree.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/748/trunk/v170/js/widgets/tree.js
+END
+print_query.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1760/trunk/v170/js/widgets/print_query.js
+END
+menu.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/764/trunk/v170/js/widgets/menu.js
+END
+export_query.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/782/trunk/v170/js/widgets/export_query.js
+END
+listing.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1864/trunk/v170/js/widgets/listing.js
+END
+calendar.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1588/trunk/v170/js/widgets/calendar.js
+END

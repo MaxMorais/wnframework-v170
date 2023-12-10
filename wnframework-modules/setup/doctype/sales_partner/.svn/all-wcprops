@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1215/trunk/setup/doctype/sales_partner
+END
+sales_partner.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1215/trunk/setup/doctype/sales_partner/sales_partner.js
+END
+sales_partner.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1215/trunk/setup/doctype/sales_partner/sales_partner.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/256/trunk/setup/doctype/sales_partner/__init__.py
+END
+sales_partner.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/256/trunk/setup/doctype/sales_partner/sales_partner.py
+END

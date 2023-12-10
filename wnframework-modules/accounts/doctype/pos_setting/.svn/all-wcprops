@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/914/trunk/accounts/doctype/pos_setting
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/256/trunk/accounts/doctype/pos_setting/__init__.py
+END
+pos_setting.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/256/trunk/accounts/doctype/pos_setting/pos_setting.js
+END
+pos_setting.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/256/trunk/accounts/doctype/pos_setting/pos_setting.txt
+END
+pos_setting.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/914/trunk/accounts/doctype/pos_setting/pos_setting.py
+END
